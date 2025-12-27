@@ -1,5 +1,15 @@
 # 💫 About Me:
-Building real-world MERN Stack projects (React, Node.js, Express, MongoDB) to strengthen my development skills.<br><br>Beginner-friendly frontend / MERN projects, open-source contributions, and learning-based teams.<br><br>Best practices in React performance optimization, backend architecture, and interview preparation.<br><br>Advanced React (Hooks, Optimization, Routing), Redux Toolkit, and backend authentication & APIs.<br><br>HTML, CSS, JavaScript, React.js, Node.js, MongoDB, REST APIs, and MERN project setup.<br><br>I enjoy debugging more than writing fresh code 😄 — because every bug teaches something new!
+Building real-world MERN Stack projects with a strong focus on Frontend development (React.js), while also having hands-on experience with Node.js, Express, and MongoDB to understand complete application flow.<br><br>
+
+Beginner-friendly frontend / MERN projects, open-source contributions, and learning-driven teams where I can grow as a React Developer.<br><br>
+
+Best practices in React performance optimization, clean component architecture, backend integration, and interview preparation.<br><br>
+
+Advanced React (Hooks, Optimization techniques, Routing), Redux Toolkit, along with backend concepts like authentication, APIs, and data handling.<br><br>
+
+HTML, CSS, JavaScript, React.js (primary focus), Node.js, MongoDB, REST APIs, and end-to-end MERN project setup.<br><br>
+
+I enjoy debugging frontend issues more than writing fresh code 😄 — because every bug improves problem-solving skills and code quality.
 
 
 ## 🌐 Socials:
